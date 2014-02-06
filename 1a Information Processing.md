@@ -1,5 +1,7 @@
 # Introduction to Information Processing
 
+## The Input Process Output (IPO) model
+
 An information processor or information processing system, as its name suggests, is a system which takes information (a sequence of enumerated states) in one form and processes (transforms) it into another form, e.g. to statistics, by an algorithmic process.
 
 Such a system usually consists of three parts:
@@ -10,3 +12,12 @@ Such a system usually consists of three parts:
 Sometimes, **storage** is considered to be part of an information processing system too.
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Information_processing_system_%28english%29.svg/500px-Information_processing_system_%28english%29.svg.png)
 
+A stored program is a program, or a sequence of commands, stored in electronic memory.
+
+## Components of an information system
+
+## Information cycle
+
+## Data & Image
+
+## Information Age
