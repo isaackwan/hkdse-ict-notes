@@ -7,3 +7,8 @@ The work is based on content licensed under compatible licenses.
 ### Wikimedia
 * Gradient drift
     * https://en.wikipedia.org/wiki/File:Information_processing_system_(english).svg
+* Bikeborg
+	* https://en.wikipedia.org/wiki/File:Cloud_computing_layers.png
+* Andrew Levine
+	* https://zh.wikipedia.org/wiki/File:PhishingTrustedBank.png
+	
